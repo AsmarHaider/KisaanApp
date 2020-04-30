@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Wed Apr 29 13:28:09 PDT 2020
+1.base=D\:\\Projects\\Google DSC solution\\ASO_For_Beginners\\app\\build\\intermediates\\merged_assets\\debug\\out
+2.path=fonts/Google Android License.txt.txt
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=D\:\\Projects\\Google DSC solution\\ASO_For_Beginners\\app\\build\\intermediates\\merged_assets\\debug\\out
+3.set=ASSET
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=fonts/robotoregular.ttf
+count=4
+1.set=ASSET
+0.path=classes.dex
+3.base=D\:\\Projects\\Google DSC solution\\ASO_For_Beginners\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.set=DEX
+0.base=D\:\\Projects\\Google DSC solution\\ASO_For_Beginners\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+2.baseType=DIRECTORY
+1.path=fonts/fontawesome.ttf

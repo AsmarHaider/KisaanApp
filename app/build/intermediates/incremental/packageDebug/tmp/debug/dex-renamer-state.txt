@@ -1,0 +1,4 @@
+#Wed Apr 29 13:28:08 PDT 2020
+base.0=D\:\\Projects\\Google DSC solution\\ASO_For_Beginners\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

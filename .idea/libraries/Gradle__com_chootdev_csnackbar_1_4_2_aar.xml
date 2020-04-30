@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.chootdev:csnackbar:1.4.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3882bad0b4a816565e604a3356b00b7d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3882bad0b4a816565e604a3356b00b7d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.chootdev/csnackbar/1.4.2/4b3c3a108a6eb8e56bb51cb52861780b5e69f459/csnackbar-1.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

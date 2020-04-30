@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Feb 11 00:27:25 PST 2020
+1.base=E\:\\Android Projects\\DSM\\ASO_For_Beginners\\app\\build\\intermediates\\merged_assets\\debug\\out
+2.path=fonts/Google Android License.txt.txt
+0.baseType=DIRECTORY
+2.base=E\:\\Android Projects\\DSM\\ASO_For_Beginners\\app\\build\\intermediates\\merged_assets\\debug\\out
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=fonts/fontawesome.ttf
+0.set=ASSET
+0.base=E\:\\Android Projects\\DSM\\ASO_For_Beginners\\app\\build\\intermediates\\merged_assets\\debug\\out
+2.baseType=DIRECTORY
+1.path=fonts/robotoregular.ttf
